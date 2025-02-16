@@ -1,0 +1,7 @@
+101,5000,Deposit
+102,3000,Deposit
+103,7000,Deposit
+104,10000,Deposit
+101,-1000,Withdraw
+103,2000,Deposit
+104,-500,Withdraw

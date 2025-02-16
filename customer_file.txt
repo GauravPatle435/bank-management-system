@@ -1,0 +1,4 @@
+101,John Doe,123 Elm St,555-1234,password123,5000
+102,Jane Smith,456 Oak St,555-5678,pass456,3000
+103,Robert Brown,789 Pine St,555-9101,secure789,7000
+104,Emily Davis,321 Maple St,555-1122,emilyD123,10000
